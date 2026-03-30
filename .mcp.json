@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cbr": {
+      "command": "npx",
+      "args": ["-y", "@theyahia/cbr-mcp"]
+    }
+  }
+}
