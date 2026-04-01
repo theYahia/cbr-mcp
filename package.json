@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/cbr-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Central Bank of Russia API — currency rates, key rate, precious metals, conversion. No auth required.",
+  "version": "1.0.2",
+  "description": "MCP server for Central Bank of Russia — currency rates, key rate, precious metals (Russia)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -33,9 +33,27 @@
   },
   "mcpName": "io.github.theYahia/cbr-mcp",
   "keywords": [
-    "mcp", "mcp-server", "model-context-protocol", "modelcontextprotocol",
-    "claude", "ai", "llm", "anthropic", "cursor", "ai-tools", "ai-agent",
-    "russian-api", "cbr", "central-bank", "currency", "exchange-rate", "ruble"
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "modelcontextprotocol",
+    "claude",
+    "ai",
+    "llm",
+    "anthropic",
+    "cursor",
+    "ai-tools",
+    "ai-agent",
+    "russian-api",
+    "cbr",
+    "central-bank",
+    "currency",
+    "exchange-rate",
+    "ruble",
+    "api",
+    "typescript",
+    "finance",
+    "banking"
   ],
   "license": "MIT",
   "repository": {
